@@ -1,5 +1,6 @@
 # chatbot
-Um simples chatbot criando em python!\n
+Um simples chatbot criando em python!
+
 Criado para tentar juntar tudo que conheço em python em um código.
 
 # Tecnologias
