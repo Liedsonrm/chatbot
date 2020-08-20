@@ -9,8 +9,8 @@ Site para baixar o python: https://www.python.org/downloads/
 
 #### Bibliotecas
 - wikipedia
-como baixar?
-pip install wikipedia
+
+como baixar?  -> pip install wikipedia
 
 Se achar um erro ou algo para melhorar faça uma Pull Request!!
 
