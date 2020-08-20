@@ -1,5 +1,5 @@
 # chatbot
--[](https://github.com/Liedsonrm/chatbot/blob/master/chatbot.gif)
+![](https://github.com/Liedsonrm/chatbot/blob/master/chatbot.gif)
 Um simples chatbot criando em python!
 
 Criado para tentar juntar tudo que conheço de python em um código.
